@@ -1,0 +1,19 @@
+header {
+  width: 100vw;
+  background-color: #222;
+
+  height: 20px;
+  a{
+    color: white;
+    &:visited{
+      color: pink;
+    }
+  }
+  div{
+    float: left;
+    margin-right: 20px;
+  }
+}
+
+
+
