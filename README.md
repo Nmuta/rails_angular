@@ -55,3 +55,5 @@ you get to the Angular root. Angular can then serve it's own pages with syntax l
 and you'll get your pages served within the single page Angular app. 
 
 
+![](links.gif)
+
