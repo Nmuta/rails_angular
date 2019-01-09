@@ -37,6 +37,10 @@ Then run the Angular server locally within the client folder
 
 > ng serve
 
+And BUILD the angular app ( super important... otherwise the compiled files wont' show up in the dist folder )
+
+> ng build 
+
 and Also run the rails server
 
 > rails s 
