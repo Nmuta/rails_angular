@@ -6,9 +6,9 @@ This is very simple app showing and Angular page with routing running inside of 
 
 Stack: 
 
-Rails 5.2.2
-Ruby 2.5.1p57
-Angular 7 
+* Rails 5.2.2
+* Ruby 2.5.1p57
+* Angular 7 
 
 Process: 
 
