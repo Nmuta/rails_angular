@@ -90,3 +90,12 @@ and you'll get your pages served within the single page Angular app.
 
 ![](links.gif)
 
+
+## LASTLY
+ALWAYS REMEMBER TO DO * ng build * to see the new compiled changes to your Angular app within the Rails app.  ng build dumps a new set of files into _client/dist/client_ and that's what will show.  
+
+It may feel cumbersome to do _ng build_ after every change. In this case, I recommend just running ng serve, viewing your Angular changes in port 4200, and when you're ready to see it all working within the Rails app, do the ng build at that time. 
+
+To do a production build for Angular using ng build --prod, see the Angular documentation. 
+
+
