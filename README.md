@@ -98,4 +98,4 @@ It may feel cumbersome to do _ng build_ after every change. In this case, I reco
 
 To do a production build for Angular using ng build --prod, see the Angular documentation. 
 
-
+Also please note that although this repo contains the full working solution, I've seen some situations where , when you download the repo, the sym links are broken. So just make sure the sym links are in tact . You may have to delete the spa and public folders and recreated them. 
