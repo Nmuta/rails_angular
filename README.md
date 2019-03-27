@@ -1,6 +1,6 @@
 # README
 
-January 9, 2019 
+March 27, 2019 
 
 This is very simple app showing and Angular page with routing running inside of Rails 5. 
 
